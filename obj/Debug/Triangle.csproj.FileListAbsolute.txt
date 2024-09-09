@@ -5,3 +5,10 @@ D:\Училище\Неща за училище\Триъгълник\obj\Debug\Tr
 D:\Училище\Неща за училище\Триъгълник\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
 D:\Училище\Неща за училище\Триъгълник\obj\Debug\Триъгълник.exe
 D:\Училище\Неща за училище\Триъгълник\obj\Debug\Триъгълник.pdb
+D:\Projects - GitHub\Triangle\bin\Debug\Триъгълник.exe.config
+D:\Projects - GitHub\Triangle\bin\Debug\Триъгълник.exe
+D:\Projects - GitHub\Triangle\bin\Debug\Триъгълник.pdb
+D:\Projects - GitHub\Triangle\obj\Debug\Triangle.csproj.AssemblyReference.cache
+D:\Projects - GitHub\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+D:\Projects - GitHub\Triangle\obj\Debug\Триъгълник.exe
+D:\Projects - GitHub\Triangle\obj\Debug\Триъгълник.pdb
