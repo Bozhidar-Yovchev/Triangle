@@ -1,0 +1,7 @@
+D:\Училище\Неща за училище\Триъгълник\bin\Debug\Триъгълник.exe.config
+D:\Училище\Неща за училище\Триъгълник\bin\Debug\Триъгълник.exe
+D:\Училище\Неща за училище\Триъгълник\bin\Debug\Триъгълник.pdb
+D:\Училище\Неща за училище\Триъгълник\obj\Debug\Triangle.csproj.AssemblyReference.cache
+D:\Училище\Неща за училище\Триъгълник\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+D:\Училище\Неща за училище\Триъгълник\obj\Debug\Триъгълник.exe
+D:\Училище\Неща за училище\Триъгълник\obj\Debug\Триъгълник.pdb
