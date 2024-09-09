@@ -10,7 +10,7 @@ namespace Triangle
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter side a: "); // side a 
+            Console.WriteLine("Enter side a: ");
             int a = int.Parse(Console.ReadLine());
             Console.WriteLine("Enter side b:  ");
             int b = int.Parse(Console.ReadLine());
