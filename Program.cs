@@ -12,7 +12,7 @@ namespace Triangle
         {
             Console.WriteLine("Enter side a: ");
             int a = int.Parse(Console.ReadLine());
-            Console.WriteLine("Enter side b:  ");
+            Console.WriteLine("Enter side b:  "); //side b 
             int b = int.Parse(Console.ReadLine());
             Console.WriteLine("Enter side c:  ");
             int c = int.Parse(Console.ReadLine());
